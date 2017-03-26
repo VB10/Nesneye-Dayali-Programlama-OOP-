@@ -1,0 +1,4 @@
+/Users/vb/Projects/nesnekullanim/nesnekullanim/bin/Debug/nesnekullanim.exe
+/Users/vb/Projects/nesnekullanim/nesnekullanim/bin/Debug/nesnekullanim.exe.mdb
+/Users/vb/Projects/nesnekullanim/nesnekullanim/obj/x86/Debug/nesnekullanim.exe
+/Users/vb/Projects/nesnekullanim/nesnekullanim/obj/x86/Debug/nesnekullanim.exe.mdb

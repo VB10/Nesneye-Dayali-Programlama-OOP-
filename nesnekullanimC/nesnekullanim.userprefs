@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{ECE07BB4-F3EB-417F-8E99-2DFF73C5B2BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nesnekullanim/CModel.cs">
+    <Files>
+      <File FileName="nesnekullanim/Program.cs" Line="9" Column="4" />
+      <File FileName="nesnekullanim/CModel.cs" Line="6" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.nesnekullanim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
